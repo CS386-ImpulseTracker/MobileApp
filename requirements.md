@@ -5,13 +5,19 @@
 
   1. ### Problem Position Statement
 
-  1. ### Value Proposition Prevent people from impulse shopping
+  1. ### Value Proposition 
+      This app will help users build healthier spending habits that prevent: 
+        regret, impulse, under-planning and unsustainable purchases.
 
 ## 2. Stakeholders
 
 ## 3. Functional Requirements ( *features* )
+  * Add Purchases
+  * Add Personal Information
+  * View Purchases
 
 ## 4. Non-Funtional Requirements
+  * Store Purchase History
 
 ## 5. MVP ( *Minimum Viable Product* )
 
