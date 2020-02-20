@@ -2,6 +2,7 @@
 
 ## 1. Positioning
   1. ### Problem Statement
+     Young adults frequently have issues with over-spending related to limited experience with their new luxury of entering the working world: ***Disposable Income***  
 
   1. ### Problem Position Statement
 
