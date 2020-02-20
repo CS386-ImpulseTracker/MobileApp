@@ -7,7 +7,10 @@
 
   1. ### Value Proposition 
       This app will help users build healthier spending habits that prevent: 
-        regret, impulse, under-planning and unsustainable purchases.
+        * Regret
+        * Impulse
+        * Under-planning
+        * Unsustainable purchases.
 
 ## 2. Stakeholders
 
