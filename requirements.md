@@ -1,26 +1,29 @@
-# ***Requirements*** ( *Deliverable-02* )
+# Requirements ( *Deliverable-02* )
 
-1. ## Positioning
-    1. ### Problem Statement
+## 1. Positioning
+  1. ### Problem Statement
 
-    1. ### Problem Position Statement
+  1. ### Problem Position Statement
 
-    1. ### Value Proposition
+  1. ### Value Proposition
 
-1. ## Stakeholders
+## 2. Stakeholders
 
-1. ## Functional Requirements ( *features* )
+## 3. Functional Requirements ( *features* )
 
-1. ## Non-Funtional Requirements
+## 4. Non-Funtional Requirements
 
-1. ## MVP ( *Minimum Viable Product* )
+## 5. MVP ( *Minimum Viable Product* )
 
-1. ## Use Cases
-    1. ### Use Case Diagram
+## 6. Use Cases
+  1. ### Use Case Diagram
 
-    1. ### Use Case Descriptions
+  1. ### Use Case Descriptions
 
-1. ## User Stories
+## 7. User Stories
 
-1. ## Trello
-    https://trello.com/b/PRMQZK8a/impulse-server
+## 8. Trello
+* ### [MobileApp](https://trello.com/b/X2UE7Wrn/impulse-app)
+    * https://trello.com/b/X2UE7Wrn/impulse-app
+* ### [Server](https://trello.com/b/PRMQZK8a/impulse-server)
+    * https://trello.com/b/PRMQZK8a/impulse-server
