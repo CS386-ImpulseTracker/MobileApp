@@ -15,16 +15,16 @@
 
 ## 2. Stakeholders
   * Project Manager ——  Keil Hubbard
-    Responsible for product design and division of staff, and  and character arrangements and resource integration for the next week.
+  *  Responsible for product design and division of staff, and  and character arrangements and resource integration for the next week.
     
   * Application Developers ——  Bailey Erickson, Chenhao Li, Robin Applegate,Oshan Wijesooriya 
-    Develop different parts of the product and Gather information and acquire necessary knowledge，developers should also test the software.
+  * Develop different parts of the product and Gather information and acquire necessary knowledge，developers should also test the software.
   
   * Testers/Users —— NAU students 
-    The users will test and use the application and make feedback so that we can improve the application and make it better able to meet user needs.
+  * The users will test and use the application and make feedback so that we can improve the application and make it better able to meet user needs.
   
   * Competitors —— Drnkpay, Urge, finder.com's Icebox 
-    These competitors have the same aim like our product—— help people avoid impulse shopping, however the Drnkpay can only help people who are drunk, and finder.com's Icebox is a plugin which can only apply for online shopping. We will make our application based on these competitors and make more differences.
+  * These competitors have the same aim like our product—— help people avoid impulse shopping, however the Drnkpay can only help people who are drunk, and finder.com's Icebox is a plugin which can only apply for online shopping. We will make our application based on these competitors and make more differences.
 ## 3. Functional Requirements ( *features* )
   * Add Purchases
   * Add Personal Information
