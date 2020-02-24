@@ -45,6 +45,16 @@
   1. ### Use Case Diagram
 
   1. ### Use Case Descriptions
+  * **Use-Cases**
+    * Use-Case:
+    * Actor:
+    * Description:
+    * Pre-Conditions:
+    * Post Conditions:
+    * Flow:  
+      1.   
+      2.   
+      3.    
 
 ## 7. User Stories
   * High priority
