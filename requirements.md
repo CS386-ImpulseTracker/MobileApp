@@ -43,10 +43,26 @@
 
 ## 6. Use Cases
   1. ### Use Case Diagram
-
+    ![USE Case Diagram](./img/usecase.jpg)
   1. ### Use Case Descriptions
   * **Use-Cases**
-    * Use-Case:
+    * Use-Case: Add Past Purchase
+    * Actor: General User
+    * Description: User adds a purchase that they have made in the past to be evaluated
+    * Pre-Conditions: User Has Installed the App and created a basic profile, App is open
+    * Post Conditions: The User confirms the details have been submitted and closes the app.
+    * Flow:  
+      1. User selects the add purchase option
+      2. User chooses "past" from the time options
+      3. User enters the cost of the item
+      4. User Answers given comparison questions
+      5. App does value comparison calculation 
+      6. App displays final value calculations
+      7. User accepts the final value
+      8. Purchase is added to User History
+      9. Purchase is added to history graph
+      <hr/>
+    * Use-Case: Create A Personal Profile
     * Actor:
     * Description:
     * Pre-Conditions:
@@ -54,7 +70,7 @@
     * Flow:  
       1.   
       2.   
-      3.    
+      3.   
 
 ## 7. User Stories
   * High priority
@@ -62,10 +78,12 @@
     * As a user I want to delete a past purchase I've entered (1 hour)
     * As a user I want to see a list of the purchases that I have been making (2 hours)
     * As a user I want to see a graph of the purchases that I have been making (3 hours)
+    <hr/>
   * Medium priority
     * As a user I want to edit a past purchase I've entered (1 hour)
     * As a user I want to update my profile information (1 hour)
     * As a user I want to update my financial information (1 hour)
+    <hr/>
   * Low priority
     * As a user I want help deciding whether I should make a particular purchase (4 hours)
     * As a user I want to use the app to weigh the benefits of buying in the future vs now (2 hours)
