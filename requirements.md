@@ -14,8 +14,6 @@
         * Unsustainable purchases.
 
 ## 2. Stakeholders
-  These are the stakeholders in this project 
-  * Professor Marco Gerosa (*CS386 Professor*)- 
 
 ## 3. Functional Requirements ( *features* )
   * Add Purchases
