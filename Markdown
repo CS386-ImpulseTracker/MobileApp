@@ -1,3 +1,4 @@
+ Class responsibilities
 We add the UserLogin and UserLogout as the basic function for our user to use our software.
 And we use UserFunds as a record to record user’s finance. The UserProfile is about our user’spersonal information. 
 The ValueItem class is about items that users want to buy. 
