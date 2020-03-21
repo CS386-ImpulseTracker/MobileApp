@@ -1,7 +1,8 @@
 # D4 Implementation 1
 
 ## Introduction 
-
+The value proposition of our software is to help users build healthier spending habits that prevent Regret, Impulse,Under-planning
+and Unsustainable purchases. And our software will be a mobile phone application which built by Android Studio. Each user can have a account that record the goods they have bought or want to bought in the future.
 
 ## Implementation Requirements 
 
