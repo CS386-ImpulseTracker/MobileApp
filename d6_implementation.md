@@ -65,6 +65,7 @@ In this iteration of our release we used mostly Java and we all generally follow
 ## Lessons Learned
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
 
+The effect of working remote, although normal in the professional world, was novel to all of us in this regard, to the point where one of our group memmbers quit upon the change occurring. Additionally, a focused single project like this did not allow each of us to work to our strengths, where in a professional field specialization is the norm, this caused us to work in an unfamiliar and unorganized way. Good for learning, Not good for creating a quality product.
 
 
 © 2020 GitHub, Inc.

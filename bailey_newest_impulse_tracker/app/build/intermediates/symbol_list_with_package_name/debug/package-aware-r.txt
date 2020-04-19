@@ -1140,6 +1140,7 @@ id async
 id auto
 id barrier
 id beginning
+id birthdateText
 id blocking
 id bottom
 id button
@@ -1201,6 +1202,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id incomeText
 id info
 id invisible
 id italic
@@ -1325,6 +1327,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userName
 id view_offset_helper
 id view_pager
 id visible
@@ -1422,6 +1425,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout profile_layout
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -1469,6 +1473,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string profile_page_title
 string search_menu_title
 string status_bar_notification_info_overflow
 string tab_text_1
