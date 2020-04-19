@@ -45,6 +45,14 @@ Bailey Erickson
 #### Git Pull Request Link:
 <https://github.com/CS386-ImpulseTracker/MobileApp/commit/d5433b25db690174f8042f8acb701331aa8701fe>
 
+### Implemented Requirement 4
+#### Trello Card: 
+<https://trello.com/c/vdVNGwuu>
+#### Person Who Implemented Trello Card:
+ Keil Hubbard
+#### Person Who Reviewed Pull Request: 
+
+#### Git Pull Request Link:
 
 ## Demo Link
 link to demo when it is done
