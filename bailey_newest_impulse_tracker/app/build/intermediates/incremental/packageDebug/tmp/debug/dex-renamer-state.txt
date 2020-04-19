@@ -1,4 +1,4 @@
-#Sun Apr 19 13:43:10 PDT 2020
+#Sun Apr 19 16:44:40 PDT 2020
 base.0=E\:\\CS_386\\TeamProject\\MobileApp\\bailey_newest_impulse_tracker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
