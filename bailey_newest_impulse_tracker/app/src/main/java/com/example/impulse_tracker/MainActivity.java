@@ -1,5 +1,6 @@
 package com.example.impulse_tracker;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Build;
@@ -17,6 +18,7 @@ import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
@@ -29,6 +31,8 @@ import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;
 
 public class MainActivity extends AppCompatActivity {
 
+    private int count = 1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,6 +44,17 @@ public class MainActivity extends AppCompatActivity {
         tabs.setupWithViewPager(viewPager);
         FloatingActionButton fab = findViewById(R.id.fab);
 
+        Button b = (Button) findViewById(R.id.Edit);
+
+        b.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v){
+                startActivity(new Intent(MainActivity.this,Pop.class));
+            }
+
+        });
+
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -49,18 +64,20 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+
     @RequiresApi(api = Build.VERSION_CODES.M)
     public void addItem(View view) {
         // Do something in response to button click
         TableLayout table = findViewById(R.id.itemTable);
         TableRow tr = new TableRow(this);
+        tr.setId(count);
+        count +=1;
 
         TextView dateText=(TextView)findViewById(R.id.dateText);
         TextView costText=(TextView)findViewById(R.id.costText);
         TextView descText=(TextView)findViewById(R.id.descText);
-        TextView storeText=(TextView)findViewById(R.id.storeText);
-
-        TextView col1 = new TextView(this);
+        TextView storeText=(TextView)findViewById(R.id.storeText);TextView col1 = new TextView(this);
         formatCell(dateText, col1);
         TextView col2 = new TextView(this);
         formatCell(costText, col2);
@@ -81,12 +98,22 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void DelLast(View view)
+    {
+        TableLayout table = findViewById(R.id.itemTable);
+        table.removeViewAt(count);
+        count -=1;
+    }
 
     public void delItem(View view) {
         TableLayout table = findViewById(R.id.itemTable);
         //TableRow tr = findViewById(view.getId());
         table.removeView(view);
     }
+
+
+
+
     @RequiresApi(api = Build.VERSION_CODES.M)
     private void formatCell(TextView cellText, TextView col) {
         col.setText(cellText.getText());
