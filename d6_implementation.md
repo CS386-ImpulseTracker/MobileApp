@@ -57,6 +57,7 @@ To foster a higher quality code, we need to use the software principles we learn
 
 ## Lessons Learned
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
+
 In this project, I came to the conclusion that every member of the team should have a sense of time, and everyone should attend the meeting on time, so as to make the whole team run well.
 Otherwise we could not finish the task on time, but we have gradually solved the problem since the last meeting.
 
