@@ -53,7 +53,7 @@ link to demo when it is done
 In this iteration of our release we used mostly Java and we all generally followed Java's coding best practices that we have learned from previous NAU courses.
 To foster a higher quality code, we need to use the software principles we learned in the class like SOLID principles, and we can also use some code quality knowledge. As we all know that it is harder to read code than write code. After writing the code, I think we can read the code so that we can find the bugs in the code.
 
- Describe how your team managed code quality. What were your policies, conventions, adopted best practices, etc. to foster high quality code? 
+
 
 ## Lessons Learned
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
