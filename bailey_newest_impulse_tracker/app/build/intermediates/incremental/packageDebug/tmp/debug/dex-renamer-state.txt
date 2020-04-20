@@ -1,4 +1,4 @@
-#Sun Apr 19 13:59:32 GMT-07:00 2020
-base.0=D\:\\OneDrive\\DevProjects\\ImpulseTracker\\MobileApp\\MobileApp\\bailey_newest_impulse_tracker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Sun Mar 22 15:08:28 MST 2020
+base.0=C\:\\Users\\Public\\Downloads\\Impulse_Tracker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
