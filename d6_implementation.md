@@ -9,13 +9,6 @@ GitHub: <https://github.com/CS386-ImpulseTracker>
 Trello: <https://trello.com/b/EH2lq3HR/cs386-project>
 
 ## Implemented Requirements 
-List in this section the requirements (user stories, issues, or use cases) that you
-implemented for this release. For each requirement, include:
-- Link to the card on Trello that describes the requirement
-- Name of who implemented the requirement and link to the pull request on GitHub
-that refers to this implementation.
-- Name of who reviewed and approved the pull request.
-- A print screen that depicts the implemented feature (if applicable).
 ### Implemented Requirement 1
 #### Trello Card: 
 <https://trello.com/c/cLH66Tlq/24-as-a-user-i-want-to-see-a-list-of-the-purchases-that-i-have-been-making>
@@ -71,7 +64,7 @@ Keil Hubbard
 ## Code Quality
 In this iteration of our release we used mostly Java and we all generally followed Java's coding best practices that we have learned from previous NAU courses.
 
- To foster a higher quality code, we used some of the software principles we learned in the class like SOLID principles, and we also used some previous code quality knowledge. 
+ To foster a higher quality code, we used some of the software principles we learned in the class like SOLID principles, and we also used some previous code quality knowledge. We tried to make the multiple programmers code as seamless as possible for being multiple people writing the code.
 
 ## Lessons Learned
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
