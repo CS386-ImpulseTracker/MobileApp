@@ -56,8 +56,17 @@ Keil Hubbard
 #### Git Pull Request Link:
 <https://github.com/CS386-ImpulseTracker/MobileApp/commit/77bd02c4ed20e8b47a2d0367d50958e350a56306>
 
+### Implemented Requirement 5
+#### Trello Card: 
+<https://trello.com/c/CR2dezGR/16-as-a-user-i-want-to-edit-a-past-purchase-ive-entered>
+#### Person Who Implemented Trello Card:
+ Oshan Wijesooriya
+#### Person Who Reviewed Pull Request: 
+Keil Hubbard
+#### Git Pull Request Link:
+<https://github.com/CS386-ImpulseTracker/MobileApp/commit/72184ad37aab6c30b6251404c41762aace8ee0c0>
 ## Demo Link
-link to demo when it is done
+<https://www.youtube.com/watch?v=9J1xzxgQxA8>
 
 ## Code Quality
 In this iteration of our release we used mostly Java and we all generally followed Java's coding best practices that we have learned from previous NAU courses.
@@ -68,6 +77,3 @@ In this iteration of our release we used mostly Java and we all generally follow
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
 
 The effect of working remote, although normal in the professional world, was novel to all of us in this regard, to the point where one of our group members quit upon the change occurring. Additionally, a focused single project like this did not allow each of us to work to our strengths, where in a professional field specialization is the norm, this caused us to work in an unfamiliar and unorganized way. Good for learning, Not good for creating a quality product.
-
-In this project, I came to the conclusion that every member of the team should have a sense of time, and everyone should attend the meeting on time, so as to make the whole team run well.
-Otherwise we could not finish the task on time, but we have gradually solved the problem since the last meeting.
