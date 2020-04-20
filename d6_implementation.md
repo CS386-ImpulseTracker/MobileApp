@@ -31,7 +31,8 @@ that refers to this implementation.
 <https://trello.com/c/ABdlSlBi/12-as-a-user-i-want-to-add-past-purchases-so-i-can-track-them>
 #### Person Who Implemented Trello Card:
  Bailey Erickson
-####Person Who Reviewed Pull Request: Bailey Erickson
+#### Person Who Reviewed Pull Request: 
+Bailey Erickson
 #### Git Pull Request Link:
 <https://github.com/CS386-ImpulseTracker/MobileApp/commit/e06846d05927b349df1cde735770cd9d53778d94>
 
@@ -51,8 +52,9 @@ Bailey Erickson
 #### Person Who Implemented Trello Card:
  Keil Hubbard
 #### Person Who Reviewed Pull Request: 
-
+Keil Hubbard
 #### Git Pull Request Link:
+<https://github.com/CS386-ImpulseTracker/MobileApp/commit/77bd02c4ed20e8b47a2d0367d50958e350a56306>
 
 ## Demo Link
 link to demo when it is done
@@ -60,14 +62,9 @@ link to demo when it is done
 ## Code Quality
 In this iteration of our release we used mostly Java and we all generally followed Java's coding best practices that we have learned from previous NAU courses.
 
- To foster a higher quality code, we need to use the software principles we learned in the class like SOLID principles, and we can also use some code quality knowledge. As we all know that it is harder to read code than write code. After writing the code, I think we can read the code so that we can find the bugs in the code 
+ To foster a higher quality code, we used some of the software principles we learned in the class like SOLID principles, and we also used some previous code quality knowledge. 
 
 ## Lessons Learned
 In Retrospective I think that we as a team are still struggling to work together and really get our application running. We are also still struggling with people that do not necessarily do all of the work they are given consistently. We think that if we were to keep working on this project together we would really have to be stricter about deadlines and not allowing anyone to slack off like we have been.
 
 The effect of working remote, although normal in the professional world, was novel to all of us in this regard, to the point where one of our group members quit upon the change occurring. Additionally, a focused single project like this did not allow each of us to work to our strengths, where in a professional field specialization is the norm, this caused us to work in an unfamiliar and unorganized way. Good for learning, Not good for creating a quality product.
-
- To foster a higher quality code, we need to use the software principles we learned in the class like SOLID principles, and we can also use some code quality knowledge. As we all know that it is harder to read code than write code. After writing the code, I think we can read the code so that we can find the bugs in the code
-
-
-© 2020 GitHub, Inc.
