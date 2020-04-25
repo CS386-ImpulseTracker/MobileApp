@@ -39,12 +39,70 @@ An acceptance test is a test that verifies the correct implementation of a featu
 ## Validation
 
 ### Script:
-The script should have the tasks that you will give to the user, what you are going to collect, and what you are going to ask. Do not forget to add questions about the users’ general impressions. You can ask open questions (e.g., How would you describe the homepage of our app? How do you compare our system to the competitor X?) or closed questions (On a scale of 1 to 10, how would you rate the layout of our application? On the same scale, how likely would you use the system in its current state?). Take a look at the inception and requirements deliverables to help create the script (aim to check if you are achieving your initial goals and if the features are implemented in a satisfactory way).
+#### Actions:
+Open up the application.
+Toggle over to the ‘ADD ITEM’ Tab.
+Add an item or two to the list. 
+Toggle back to the ‘IMPULSE BUYS’ Tab. 
+Look at the purchases you have made and you can scroll up and down. 
+Click the ‘DELETE LAST’ button and the most recent entry will delete.
+Click the ‘ EDIT ITEM’ button and you can change an item by its index(UNFINISHED). 
+Toggle to the ‘GRAPH’ Tab this is where the graph of purchase would be(UNFINISHED).
+Toggle to the ‘USER PROFILE’ Tab this is where you would be able to look at your information and edit it (UNFINISHED).
+
+##### Interview Questions:
+What do you think about our app even though it is unfinished?
+
+Do you think you would use it if it was a finished project?
+
+What do you think about the user interface?
+
+Do you think that this would help you track unhealthy spending habits if it was complete?
+
+Would seeing your unhealthy habits tracked out on a graph help you limit your impulse spending?
+
+What would you like to see this app become?
+
 
 ### Results:
-Conduct the user evaluation with at least 3 users. Report the data that you collected.
+#### Bailey's Interview with Kenny:
+##### What do you think about our app even though it is unfinished?
+“I like the basis of the application it seems very useful.” 
+##### Do you think you would use it if it was a finished project?
+"I would probably use it since im so terrible with my money right now."
+##### What do you think about the user interface?
+"I think it seems easy to use and simple to learn"
+##### Do you think that this would help you track unhealthy spending habits if it was complete?
+"I see it helping me but it might not work for everyone else"
+##### Would seeing your unhealthy habits tracked out on a graph help you limit your impulse spending?
+"It probably would help me out a bit seeing how much money I waste"
+##### What would you like to see this app become?
+"I'd want to really see it completed and become more of what you say it is going to be."
+
+#### Bailey's Interview with Elie:
+##### What do you think about our app even though it is unfinished?
+"It looks a bit clunky and really unfinished."
+##### Do you think you would use it if it was a finished project?
+"I dont think that I would"
+##### What do you think about the user interface?
+"It looks simple enough."
+##### Do you think that this would help you track unhealthy spending habits if it was complete?
+“I think its a cool idea overall but it isn’t complete yet so I couldn’t tell you if I would really use it or not.” 
+##### What would you like to see this app become?
+"If you finished it a bit more I could maybe give you more insight."
+
+#### Bailey's Interview with John:
+##### What do you think about our app even though it is unfinished?
+"It looks unfinished and unrefined."
+##### Do you think you would use it if it was a finished project?
+“The app is cool and if you finished it I would probably be willing to use it.” 
+##### What do you think about the user interface?
+" It looks easy to use but you should work on making it more inviting to the users."
+##### Do you think that this would help you track unhealthy spending habits if it was complete?
+"I feel like im good at spending my money but I thinkk it would help me just visualize where my money is going a bit better."
+##### Would seeing your unhealthy habits tracked out on a graph help you limit your impulse spending?
+"Like I said, I don't spend my money really unhealthily but I would like to be able to see a bit more of where my money is going."
 
 ### Reflections:
-Reflect on what you observed. Some questions that you can explore: What features worked well? What can be changed? How is the learning curve of your system? Did the users preform the tasks as you expected? Did the users’ actions produce the  results they expected? What did the users like the most? Is your value proposition accomplished? 
-
+I think overall I got pretty positive feedback on what the app is as its unfinished shell of what it could be. The majority of the people I talked to had decent things to say and would likely use it. The 'add item' feature worked well as did the 'delete last'. We should add the ability to select items and edit them as well as select and delete them. The people that I talked to carried out the short list of tasks that I made out. I do believe that the users got the desired results from their actions because there really isn't a lot that can go wrong in this app. The users that I talked with seemed to like the easy to use interface with simple toggles between pages and simple fields and actions. I personally think that if the app was finished that it would accomplish our value propostion, but I think that right now as it stand only half finished it would not accomplish the value proposition.
 
