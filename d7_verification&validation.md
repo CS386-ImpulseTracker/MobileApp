@@ -8,6 +8,7 @@ and unsustainable purchases. And our software will be a mobile phone application
 ### Unit Tests
 A unit test is an automated test that aims to verify the behavior of a component isolated from the rest of the system. For this deliverable, you should have automated tests for the main components of your project. Provide the following information:
 #### Test Framework Used: 
+We used JUnit.
 
 #### Link to GitHub folder with automated unit tests:
 
@@ -19,6 +20,7 @@ A unit test is an automated test that aims to verify the behavior of a component
 ### Integration Tests
 An integration test is an automated test that verifies the implementation of a business rule that involves multiple components with the goal of certifying that they work together to produce the expected result. They are often performed in the same test platform as the unit tests. Provide the following information:
 #### Testing Framework Used:
+We used JUnit.
 
 #### Link to GitHub folder with automated integration tests:
 
@@ -40,14 +42,14 @@ An acceptance test is a test that verifies the correct implementation of a featu
 
 ### Script:
 #### Actions:
-Open up the application.
-Toggle over to the ‘ADD ITEM’ Tab.
-Add an item or two to the list. 
-Toggle back to the ‘IMPULSE BUYS’ Tab. 
-Look at the purchases you have made and you can scroll up and down. 
-Click the ‘DELETE LAST’ button and the most recent entry will delete.
-Click the ‘ EDIT ITEM’ button and you can change an item by its index(UNFINISHED). 
-Toggle to the ‘GRAPH’ Tab this is where the graph of purchase would be(UNFINISHED).
+Open up the application.\
+Toggle over to the ‘ADD ITEM’ Tab.\
+Add an item or two to the list.\
+Toggle back to the ‘IMPULSE BUYS’ Tab.\
+Look at the purchases you have made and you can scroll up and down.\
+Click the ‘DELETE LAST’ button and the most recent entry will delete.\
+Click the ‘ EDIT ITEM’ button and you can change an item by its index(UNFINISHED).\
+Toggle to the ‘GRAPH’ Tab this is where the graph of purchase would be(UNFINISHED).\
 Toggle to the ‘USER PROFILE’ Tab this is where you would be able to look at your information and edit it (UNFINISHED).
 
 ##### Interview Questions:
