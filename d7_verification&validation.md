@@ -20,13 +20,14 @@ We used JUnit.
 ### Integration Tests
 An integration test is an automated test that verifies the implementation of a business rule that involves multiple components with the goal of certifying that they work together to produce the expected result. They are often performed in the same test platform as the unit tests. Provide the following information:
 #### Testing Framework Used:
-We used JUnit.
+We used JUnit testing for the integration tests.
 
 #### Link to GitHub folder with automated integration tests:
 
 #### Integration Test Example and Link:
 
 #### A print screen: 
+  ![Integration Testing](./img/integration-testing.JPG) 
 
 ### Acceptance Tests
 An acceptance test is a test that verifies the correct implementation of a feature from the user interface perspective. An acceptance test is a black box test (the system is tested without knowledge about its internal implementation). Provide the following information:
