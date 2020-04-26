@@ -108,6 +108,18 @@ What would you like to see this app become?
 ##### Would seeing your unhealthy habits tracked out on a graph help you limit your impulse spending?
 "Like I said, I don't spend my money really unhealthily but I would like to be able to see a bit more of where my money is going."
 
+#### Chenhao's Interview with Zane:
+##### What do you think about our app even though it is unfinished?
+"It needs more work to finish."
+##### Do you think you would use it if it was a finished project?
+"Maybe I will use it."
+##### What do you think about the user interface?
+"It looks OK but not good."
+##### Do you think that this would help you track unhealthy spending habits if it was complete?
+“I think it could not help me as I seldom add items in mobile.” 
+##### What would you like to see this app become?
+"I think it maybe help some people who like online shopping."
+
 ### Reflections:
 I think overall I got pretty positive feedback on what the app is as its unfinished shell of what it could be. The majority of the people I talked to had decent things to say and would likely use it. The 'add item' feature worked well as did the 'delete last'. We should add the ability to select items and edit them as well as select and delete them. The people that I talked to carried out the short list of tasks that I made out. I do believe that the users got the desired results from their actions because there really isn't a lot that can go wrong in this app. The users that I talked with seemed to like the easy to use interface with simple toggles between pages and simple fields and actions. I personally think that if the app was finished that it would accomplish our value propostion, but I think that right now as it stand only half finished it would not accomplish the value proposition.
 
