@@ -25,6 +25,8 @@ We used JUnit testing for the integration tests.
 #### Link to GitHub folder with automated integration tests:
 
 #### Integration Test Example and Link:
+In this test file we are testing the add item tab in the table on the impulse buys screen.\ 
+We are also testing the delete last in the impulse buys section of the application.
 
 #### A print screen: 
   ![Integration Testing](./img/integration-testing.JPG) 
