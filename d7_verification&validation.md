@@ -13,31 +13,35 @@ We used JUnit for the unit tests.
 [Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
 #### Test Case Using Mock Objects and Link: 
 This test was type in an item and add it to the list.
-[Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
+[Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)]
 
 #### Testing Framework Used:
 We used JUnit testing for the integration tests.
 
 #### A print screen: 
-  ![Unit Testing](./img/integration-testing.JPG) 
+
 In this test we tested a DummyContent object and initialized some data in it. We then asserted that the information was returned correctly.
 
 #### Integration Test Example and Link:
 In this test file we are testing the add item tab in the table on the impulse buys screen. 
 We are also testing the delete last in the impulse buys section of the application.
+[Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java)] 
 
 #### A print screen: 
   ![Integration Testing](./img/integration-testing.JPG) 
 
 ### Acceptance Tests
-An acceptance test is a test that verifies the correct implementation of a feature from the user interface perspective. An acceptance test is a black box test (the system is tested without knowledge about its internal implementation). Provide the following information:
 #### Test Framework Used:
+Katalon
 
 #### Link to GitHub folder with automated acceptance tests:
+Katalon did not save anything for automated acceptance tests, this is very difficult stuff to learn by yourself and my group has not really been helping 
 
-#### Acceptance Test Example and Link:
+#### Acceptance Test Example:
+I just tested the basic things that were lready part of the Katalon app that were scrolling, rotation, clicking, and swiping tabs.
 
 #### A Print Screen/Video:
+  ![Acceptance Testing](./img/acceptance-testing.JPG) 
 
 ## Validation
 
