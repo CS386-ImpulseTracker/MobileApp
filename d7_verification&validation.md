@@ -10,15 +10,13 @@ and unsustainable purchases. And our software will be a mobile phone application
 We used JUnit.
 
 #### Link to GitHub folder with automated unit tests:
-
+[Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
 #### Test Case Using Mock Objects and Link: 
 
 
 #### Testing Framework Used:
 We used JUnit testing for the integration tests.
 
-#### Link to GitHub folder with automated integration tests:
-[Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
 
 #### A print screen: 
   ![UI Testing](./img/integration-testing.JPG) 
