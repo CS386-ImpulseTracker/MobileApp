@@ -19,8 +19,8 @@ We used JUnit testing for the integration tests.
 
 
 #### A print screen: 
-  ![UI Testing](./img/integration-testing.JPG) 
-In this test we testing the UI for adding and then JUnit ran the process with a click and ensured the entered information was correct.
+  ![Unit Testing](./img/integration-testing.JPG) 
+In this test we tested a DummyContent object and initialized some data in it. We then aseerted that the information returned correctly.
 
 #### Integration Test Example and Link:
 In this test file we are testing the add item tab in the table on the impulse buys screen.\ 
