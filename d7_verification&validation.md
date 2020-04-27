@@ -10,10 +10,10 @@ and unsustainable purchases. And our software will be a mobile phone application
 We used JUnit for the unit tests.
 
 #### Link to GitHub folder with automated unit tests:
-[Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
+https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java
 #### Test Case Using Mock Objects and Link: 
 This test was type in an item and add it to the list.
-[Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)]
+https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java
 
 #### A print screen: 
 ![Unit Testing](./img/unit-test.jpg) 
@@ -23,12 +23,12 @@ In this test we tested a DummyContent object and initialized some data in it. We
 We used JUnit testing for the integration tests.
 
 #### Link to GitHub folder with automated unit tests:
-[Link to folder (https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java)]
+https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java
 
 #### Integration Test Example and Link:
 In this test file we are testing the add item tab in the table on the impulse buys screen. 
 We are also testing the delete last in the impulse buys section of the application.
-[Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java)] 
+https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java 
 
 #### A print screen: 
   ![Integration Testing](./img/integration-testing.JPG) 
