@@ -6,7 +6,6 @@ and unsustainable purchases. And our software will be a mobile phone application
 
 ## Verification(tests)
 ### Unit Tests
-A unit test is an automated test that aims to verify the behavior of a component isolated from the rest of the system. For this deliverable, you should have automated tests for the main components of your project. Provide the following information:
 #### Test Framework Used: 
 We used JUnit.
 
@@ -14,17 +13,14 @@ We used JUnit.
 
 #### Test Case Using Mock Objects and Link: 
 
-#### A Print Screen: 
 
-
-### Integration Tests
-An integration test is an automated test that verifies the implementation of a business rule that involves multiple components with the goal of certifying that they work together to produce the expected result. They are often performed in the same test platform as the unit tests. Provide the following information:
 #### Testing Framework Used:
 We used JUnit testing for the integration tests.
 
 #### Link to GitHub folder with automated integration tests:
 [Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
 
+#### A print screen: 
   ![UI Testing](./img/integration-testing.JPG) 
 In this test we testing the UI for adding and then JUnit ran the process with a click and ensured the entered information was correct.
 
