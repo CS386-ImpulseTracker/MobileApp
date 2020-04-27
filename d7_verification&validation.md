@@ -15,12 +15,15 @@ We used JUnit for the unit tests.
 This test was type in an item and add it to the list.
 [Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)]
 
+#### A print screen: 
+![Unit Testing](./img/unit-testing.jpg) 
+In this test we tested a DummyContent object and initialized some data in it. We then asserted that the information was returned correctly.
+
 #### Testing Framework Used:
 We used JUnit testing for the integration tests.
 
-#### A print screen: 
-
-In this test we tested a DummyContent object and initialized some data in it. We then asserted that the information was returned correctly.
+#### Link to GitHub folder with automated unit tests:
+[Link to folder (https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/bailey_newest_impulse_tracker/app/src/androidTest/java/com/example/impulse_tracker/MainActivityTests.java)]
 
 #### Integration Test Example and Link:
 In this test file we are testing the add item tab in the table on the impulse buys screen. 
