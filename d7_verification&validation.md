@@ -16,7 +16,7 @@ This test was type in an item and add it to the list.
 [Link(https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)]
 
 #### A print screen: 
-![Unit Testing](./img/unit-testing.jpg) 
+![Unit Testing](./img/unit-test.jpg) 
 In this test we tested a DummyContent object and initialized some data in it. We then asserted that the information was returned correctly.
 
 #### Testing Framework Used:
