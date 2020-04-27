@@ -23,6 +23,10 @@ An integration test is an automated test that verifies the implementation of a b
 We used JUnit testing for the integration tests.
 
 #### Link to GitHub folder with automated integration tests:
+[Link to folder](https://github.com/CS386-ImpulseTracker/MobileApp/blob/Stage_VerificationAndValidation/ImpulseApp/app/src/test/java/com/example/impulseapp/ChangeTextBehaviorTest.java)
+
+  ![UI Testing](./img/integration-testing.JPG) 
+In this test we testing the UI for adding and then JUnit ran the process with a click and ensured the entered information was correct.
 
 #### Integration Test Example and Link:
 In this test file we are testing the add item tab in the table on the impulse buys screen.\ 
